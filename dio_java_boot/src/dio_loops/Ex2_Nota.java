@@ -15,7 +15,8 @@ public class Ex2_Nota {
 			System.out.println("Nota invalida, digite novamente: ");
 			nota = sc.nextInt();
 		}
-
+		
+		
 	}
 
 }
